@@ -18,4 +18,4 @@
 #     artifact-name: corne_left_with_studio
 #
 include:
-  - board: KLACKER_BS
+  - board: klacker_bs
