@@ -17,5 +17,5 @@
 #     cmake-args: -DCONFIG_ZMK_STUDIO=y
 #     artifact-name: corne_left_with_studio
 #
----
-board: klacker_bs
+include:
+  - board: klacker_bs
