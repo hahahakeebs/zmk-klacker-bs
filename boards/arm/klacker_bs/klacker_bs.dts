@@ -10,7 +10,7 @@
 
 / {
 	model = "klacker_bs";
-	compatible = "weteor,klacker_bs";
+	compatible = "klacker_bs";
 
 	chosen {
 		zephyr,code-partition = &code_partition;
