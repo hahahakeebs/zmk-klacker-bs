@@ -4,10 +4,10 @@
 if BOARD_KLACKER_BS
 
 config BOARD
-        default "Klacker BS"
+        default "klacker_bs"
 
 config ZMK_KEYBOARD_NAME
-        default "Klacker BS"
+        default "klacker_bs"
 
 if USB
 
